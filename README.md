@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loi-Phat Tang, currently a junior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
+I'm Loi-Phat Tang, currently a senior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
 I'm looking to learn new technology and frameworks, and would like to collaborate on any software projects.  
 
 <!--
