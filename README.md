@@ -3,6 +3,10 @@
 I'm Loi-Phat Tang, currently a senior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
 I'm looking to learn new technology and frameworks, and would like to collaborate on any software projects.  
 
+[![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlphat&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlphat&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tlphat/tlphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
