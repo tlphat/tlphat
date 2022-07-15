@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Loi-Phat Tang, currently a senior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
+I'm Phat Tang, currently a senior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
 I'm looking to learn new technology and frameworks, and would like to collaborate on any software projects.  
 
 [![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlphat&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
