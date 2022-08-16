@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi, I'm Phat Tang! 👋
 
-I'm Phat Tang, currently a senior student of VNU, Ho Chi Minh City University of Science, Advanced Program in Computer Science.  
-I'm looking to learn new technology and frameworks, and would like to collaborate on any software projects.  
+- :scroll: I'm a senior student of VNUHCM, University of Science, Advanced Program in Computer Science.
+- :zap: I have a passion for building software, and always want to do it better every day.
+- :muscle: I have some experience working on backend development in Spring Boot and implementing Machine Learning solutions.
+- :seedling: I'm currently learning JavaScript and frontend development.
+- :dancers: I'm looking to collaborate on any web based projects that can enhance my skills.
 
-[![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlphat&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlphat&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+#### Contact me
+[Email](mailto:loiphattang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tlphat/) | [Twitter](https://twitter.com/LoiPhatTang)
 
 <!--
 **tlphat/tlphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
