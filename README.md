@@ -1,6 +1,6 @@
 ### Hi, I'm Phat Tang! 👋
 
-- :scroll: I'm a senior student of VNUHCM, University of Science, Advanced Program in Computer Science.
+- :scroll: I'm a fresh graduate of VNUHCM, University of Science, Advanced Program in Computer Science.
 - :zap: I have a passion for building software, and always want to do it better every day.
 - :muscle: I have some experience working on backend development in Spring Boot and implementing Machine Learning solutions.
 - :seedling: I'm currently learning JavaScript and frontend development.
