@@ -1,10 +1,10 @@
 ### Hi, I'm Phat Tang! 👋
 
-- :scroll: I'm a fresh graduate of VNUHCM, University of Science, Advanced Program in Computer Science.
-- :zap: I have a passion for building software, and always want to do it better every day.
-- :muscle: I have some experience working on backend development in Spring Boot and implementing Machine Learning solutions.
-- :seedling: I'm currently learning JavaScript and frontend development.
-- :dancers: I'm looking to collaborate on any web based projects that can enhance my skills.
+- :scroll: I'm a Software Engineer based in Saigon, Vietnam.
+- :zap: I love building software, reading, and learning new things.
+- :muscle: I'm specialized in backend development (2+ years working with Java Spring Boot).
+- :seedling: I'm also reading/learning about cloud and architecture in my free time.
+- :dancers: Feel free to reach out to me if you need collaboration on any project.
 
 #### Contact me
 [Email](mailto:loiphattang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tlphat/) | [Twitter](https://twitter.com/LoiPhatTang)
