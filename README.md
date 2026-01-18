@@ -2,7 +2,7 @@
 
 - :scroll: I'm a Software Engineer based in Saigon, Vietnam.
 - :zap: I love building software, reading, and learning new things.
-- :muscle: I'm specialized in backend development (2+ years working with Java Spring Boot).
+- :muscle: I'm specialized in distributed system and performance optimization.
 - :seedling: I'm also reading/learning about cloud and architecture in my free time.
 - :dancers: Feel free to reach out to me if you need collaboration on any project.
 
